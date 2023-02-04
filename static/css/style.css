@@ -1,3 +1,7 @@
+body{
+     font-family: 'Poppins';
+font-style: normal;
+}
 .navigation a:nth-child(1){ 
     padding-left:  537px;
     color:black;
@@ -176,7 +180,6 @@ color: #000000;
 .n{
     
 
-
 text-decoration-line: underline;
 text-transform: lowercase;
 
@@ -196,11 +199,9 @@ font-weight: 400;
 font-size: 25px;
 line-height: 38px;
 
-
 text-transform: capitalize;
 
 color: #000000;
-
 
 }
 .EF{
@@ -219,7 +220,6 @@ text-transform: capitalize;
 
 color: #000000;
 
-
 }
 .contact1{
     position: absolute;
@@ -234,7 +234,7 @@ color: #000000;
     font-size: 40px;
     line-height: 60px;
      text-transform: capitalize;
-    color: #000000;
+    color: #7D0000;
 }
 .AB{
     position: absolute;
@@ -302,7 +302,7 @@ font-style: normal;
 font-weight: 400;
 font-size: 40px;
 line-height: 60px;
-color: #000000;
+color: #7D0000;
 
 }
 
@@ -347,19 +347,88 @@ border-radius: 2px;
 }
 
 
-.photo2{
-    
-   
 
-}
 .photo3{
     position: absolute;
-    width: 310.65px;
-    height: 338.14px;
+    width: 320.65px;
+    height: px;
     left: 1013.17px;
     top: 263.63px;
     
     background: #D9D9D9;
     border-radius: 2px;
 
+}
+
+.qartuli{
+    position: absolute;
+width: 404px;
+height: 29px;
+left: 518px;
+top: 159px;
+
+font-family: 'FiraGO';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+
+color: #000000;
+}
+
+.kon{
+    position: absolute;
+width: 263px;
+height: 57px;
+left: 131px;
+top: 849px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+}
+.kina{
+    position: absolute;
+width: 263px;
+height: 57px;
+left: 581px;
+top: 849px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+}
+
+.mai{
+    position: absolute;
+width: 263px;
+height: 57px;
+left: 1006px;
+top: 849px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+
+}
+
+.photo2{
+    position: absolute;
+width: 270.94px;
+height: 300px;
+left: 600.46px;
+top: 264px;
 }

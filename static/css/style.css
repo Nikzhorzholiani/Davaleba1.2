@@ -1,38 +1,42 @@
+body{
+     font-family: 'Poppins';
+font-style: normal;
+}
 .navigation a:nth-child(1){ 
-   padding-left:  537px;
-   color:black;
-   
+    padding-left:  537px;
+    color:black;
+    
 }
 
 .navigation a:nth-child(2){
-   padding-left:  120px;
-   color:black;
-  
-}
+    padding-left:  120px;
+    color:black;
    
+}
+    
 .navigation a:nth-child(3){
-   padding-left: 120px;
-   color:black; 
-  
+    padding-left: 120px;
+    color:black; 
+   
 }
 
- .navigation{ width: 100%;
-   height: 27px;
-   margin-top: 30px;
-   
-   font-family: 'Poppins';
-   font-style: normal;
-   font-weight: 500;
-   font-size: 18px;
-   line-height: 27px;
-   border-bottom: 1px solid #000000;
+  .navigation{ width: 100%;
+    height: 27px;
+    margin-top: 30px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    border-bottom: 1px solid #000000;
 }
 a:link{
-   text-decoration: none;
+    text-decoration: none;
 }
 
 .square{
-   box-sizing: border-box;
+    box-sizing: border-box;
 
 position: absolute;
 width: 333px;
@@ -45,7 +49,7 @@ border-radius: 2px;
 }
 
 .page{
-   position: absolute;
+    position: absolute;
 width: 265.95px;
 height: 25.52px;
 left: 152px;
@@ -61,7 +65,7 @@ color: #000000;
 
 }
 .page1{
-   position: absolute;
+    position: absolute;
 width: 282.71px;
 height: 51.04px;
 left: 152px;
@@ -80,19 +84,19 @@ color: #000000;
 
 .second{box-sizing: border-box;
 
-   position: absolute;
-   width: 333px;
-   height: 481px;
-   left: 571px;
-   top: 253px;
-   
-   border: 1px solid #000000;
-   border-radius: 2px;
- 
+    position: absolute;
+    width: 333px;
+    height: 481px;
+    left: 571px;
+    top: 253px;
+    
+    border: 1px solid #000000;
+    border-radius: 2px;
+  
 }
 
 .secondpage{
-   position: absolute;
+    position: absolute;
 width: 265.95px;
 height: 25.52px;
 left: 596.62px;
@@ -109,7 +113,7 @@ color: #000000;
 }
 
 .secondpage1{
-   position: absolute;
+    position: absolute;
 width: 282.71px;
 height: 51.04px;
 left: 596.62px;
@@ -127,7 +131,7 @@ color: #000000;
 }
 
 .Third{
-   box-sizing: border-box;
+    box-sizing: border-box;
 
 position: absolute;
 width: 333px;
@@ -140,7 +144,7 @@ border-radius: 2px;
 }
 
 .thirdpage{
-   position: absolute;
+    position: absolute;
 width: 265.95px;
 height: 25.52px;
 left: 1028.68px;
@@ -156,7 +160,7 @@ color: #000000;
 
 }
 .thirdpage1{
-   position: absolute;
+    position: absolute;
 width: 282.71px;
 height: 51.04px;
 left: 1028.68px;
@@ -174,7 +178,7 @@ color: #000000;
 }
 
 .n{
-   
+    
 
 text-decoration-line: underline;
 text-transform: lowercase;
@@ -183,7 +187,7 @@ color: #000000;
 
 }
 .CD{
-   position: absolute;
+    position: absolute;
 width: 277px;
 height: 38px;
 left: 175px;
@@ -201,7 +205,7 @@ color: #000000;
 
 }
 .EF{
-   position: absolute;
+    position: absolute;
 width: 227px;
 height: 38px;
 left: 175px;
@@ -230,31 +234,31 @@ color: #000000;
     font-size: 40px;
     line-height: 60px;
      text-transform: capitalize;
-    color: #000000;
+    color: #7D0000;
 }
 .AB{
-   position: absolute;
-   width: 268px;
-   height: 38px;
-   left: 175px;
-   top: 447px;
+    position: absolute;
+    width: 268px;
+    height: 38px;
+    left: 175px;
+    top: 447px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
    
-   font-family: 'Poppins';
-   font-style: normal;
-   font-weight: 400;
-   font-size: 25px;
-   line-height: 38px;
-  
-   
-   text-decoration-line: underline;
-   text-transform: lowercase;
-   
-   color: #000000;
-   
+    
+    text-decoration-line: underline;
+    text-transform: lowercase;
+    
+    color: #000000;
+    
 
 }
 .cl{
-    position: absolute;
+     position: absolute;
 width: 775px;
 height: 120px;
 left: 175px;
@@ -270,7 +274,7 @@ text-transform: capitalize;
 color: #000000;
 }
 .f{
-   position: absolute;
+    position: absolute;
 width: 373px;
 height: 38px;
 left: 175px;
@@ -287,7 +291,7 @@ color: #000000;
 }
 
 .No{
-   position: absolute;
+    position: absolute;
 width: 406px;
 height: 60px;
 left: 517px;
@@ -303,30 +307,132 @@ color: #7D0000;
 }
 
 .li{
-   
-   position: absolute;
-   width: 118px;
-   height: 30px;
-   left: 342px;
-   top: 757px;
+    
+    position: absolute;
+    width: 118px;
+    height: 30px;
+    left: 342px;
+    top: 757px;
 }
 
 .king{
-   position: absolute;
+    position: absolute;
 width: 118px;
 height: 30px;
 left: 785.12px;
 top: 757px;
 }
 .ji{
-   box-sizing: border-box;
+    box-sizing: border-box;
 
-   position: absolute;
-   width: 118px;
-   height: 30px;
-   left: 1217.12px;
-   top: 757px;
-   
+    position: absolute;
+    width: 118px;
+    height: 30px;
+    left: 1217.12px;
+    top: 757px;
+    
+    
+}
+
+.photo1{
+    position: absolute;
+width: 310.65px;
+height: 338.14px;
+left: 137.17px;
+top: 257.63px;
+
+background: #D9D9D9;
+border-radius: 2px;
+
+}
+
+
+
+.photo3{
+    position: absolute;
+    width: 320.65px;
+    height: px;
+    left: 1013.17px;
+    top: 263.63px;
+    
+    background: #D9D9D9;
+    border-radius: 2px;
+
+}
+
+.qartuli{
+    position: absolute;
+width: 404px;
+height: 29px;
+left: 518px;
+top: 159px;
+
+font-family: 'FiraGO';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+
+color: #000000;
+}
+
+.kon{
+    position: absolute;
+width: 263px;
+height: 57px;
+left: 131px;
+top: 849px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+}
+.kina{
+    position: absolute;
+width: 263px;
+height: 57px;
+left: 581px;
+top: 849px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+}
+
+.mai{
+    position: absolute;
+width: 263px;
+height: 57px;
+left: 1006px;
+top: 849px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+
+}
+
+.photo2{
+    position: absolute;
+width: 270.94px;
+height: 300px;
+left: 600.46px;
+top: 264px;
+}
+
    
 }
 

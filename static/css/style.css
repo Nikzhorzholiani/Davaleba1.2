@@ -33,6 +33,23 @@ font-style: normal;
 }
 a:link{
     text-decoration: none;
+     .qartuli{
+          position: absolute;
+width: 404px;
+height: 29px;
+left: 518px;
+top: 159px;
+
+font-family: 'FiraGO';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+     }
 }
 
 .square{
